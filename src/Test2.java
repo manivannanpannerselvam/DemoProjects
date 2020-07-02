@@ -5,6 +5,12 @@ public class Test2 {
 	{
 		System.out.println("Tests");
 		
+		System.out.println("Test2");
+		
+		System.out.println("Test4");
+		
+		System.out.println("Test5");
+		
 	}
 
 }
